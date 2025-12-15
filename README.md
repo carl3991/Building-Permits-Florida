@@ -2,29 +2,29 @@
 This project analyzes Florida building permit data using Python (pandas, matplotlib, seaborn). It focuses on cleaning and transforming datasets, performing exploratory analysis, and building clear visualizations to uncover trends in housing development and regional growth.
 
 ## Features
-Data cleaning and preprocessing for consistency
+1. Data cleaning and preprocessing for consistency
 
-Exploratory data analysis (EDA) with descriptive statistics
+2. Exploratory data analysis (EDA) with descriptive statistics
 
-Visualizations of permit activity and regional trends
+3. Visualizations of permit activity and regional trends
 
-Insights into housing development and community growth
+4. Insights into housing development and community growth
 
 ## Tools & Libraries
-Python: pandas, matplotlib, seaborn
+1. Python: pandas, matplotlib, seaborn
 
-Jupyter Notebook for analysis and documentation
+2. Jupyter Notebook for analysis and documentation
 
 ## Contributors
 This project was developed collaboratively by:
 
-1. Carl Legros – Quantitative research, data wrangling, feature engineering, statistical modeling, visualization
+* **Carl Legros** – Quantitative research, data wrangling, feature engineering, statistical modeling, visualization
 
-2. Joao Vitor Jeronimo – Research analysis, academic writing, data exploration, methodological design
+* **Joao Vitor Jeronimo** – Research analysis, academic writing, data exploration, methodological design
 
-3. Rose Kerlande Jeanmary – Applied research, presentation design, exploratory data analysis, contextual framing, interpretation
+* **Rose Kerlande Jeanmary** – Applied research, presentation design, exploratory data analysis, contextual framing, interpretation
 
-4. Pablo Olmedo – Model assessment, presentation design, visual storytelling, audience‑focused communication
+* **Pablo Olmedo** – Model assessment, presentation design, visual storytelling, audience‑focused communication
 
 ## License
 This project is licensed under the MIT License. Reuse or sharing must include attribution to all contributors listed above.
