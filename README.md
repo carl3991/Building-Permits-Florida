@@ -1,22 +1,34 @@
+# **Florida Building Permit Classification and Cost Forecasting**
+
 ## Project Overview
-This project analyzes Florida building permit data using Python (pandas, matplotlib, seaborn). It focuses on cleaning and transforming datasets, performing exploratory analysis, and building clear visualizations to uncover trends in housing development and regional growth.
+This project analyzes Florida building permit data to uncover trends in construction activity, zoning patterns, and development costs. Using Python (pandas, matplotlib, seaborn), the workflow includes data cleaning, transformation, exploratory analysis, and predictive modeling. The analysis highlights how permit data can support clearer planning, more efficient review processes, and better understanding of regional growth.
+
+Beyond descriptive insights, the project applies machine learning models to classify permits as Residential or Commercial and uses time‑series forecasting to project average permit costs over the next five years. Together, these components demonstrate how data science can turn raw administrative records into actionable information for planners, developers, and community stakeholders.
 
 ## Features
-1. Data cleaning and preprocessing for consistency
+1. Data cleaning & preprocessing
+> Standardization of permit fields, handling missing values, and preparing structured     datasets for analysis.
 
-2. Exploratory data analysis (EDA) with descriptive statistics
+2. Exploratory data analysis (EDA)
+> Descriptive statistics and visual summaries of permit activity, zoning distribution, and cost patterns.
+   
 
-3. Visualizations of permit activity and regional trends
+3. Predictive Modeling
+> Classification of permits using Logistic Regression, Random Forest, and XGBoost, with XGBoost achieving the strongest performance and highest recall for Commercial permits
 
-4. Insights into housing development and community growth
+4. **Cost Forecasting**
+> ARIMA and Prophet models used to forecast average permit costs, revealing a stable to slightly declining trend through 2026.
+
+5.**Insights for Planning & Development**
+> Interpretation of model outputs to identify key drivers such as zoning codes, project scales, and cost dynamics, supporting more informed decision-making.
 
 ## Tools & Libraries
-1. Python: pandas, matplotlib, seaborn
+* Python: pandas, matplotlib, seaborn
 
-2. Jupyter Notebook for analysis and documentation
+* Jupyter Notebook: analysis and documentation, and visualization environment
 
 ## Contributors
-This project was developed collaboratively by:
+This project was developeded collaboratively by:
 
 * **Carl Legros** – Quantitative research, data wrangling, feature engineering, statistical modeling, visualization
 
@@ -25,7 +37,8 @@ This project was developed collaboratively by:
 * **Rose Kerlande Jeanmary** – Applied research, presentation design, exploratory data analysis, contextual framing, interpretation
 
 * **Pablo Olmedo** – Model assessment, presentation design, visual storytelling, audience‑focused communication
-
+  
+<br></br>
 ## License
 This project is licensed under the MIT License. Reuse or sharing must include attribution to all contributors listed above.
 
