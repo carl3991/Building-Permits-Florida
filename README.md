@@ -3,6 +3,7 @@
 ### Dataset
 The full building permit dataset is available here:  
 [Google Sheets – Florida Building Permits](https://docs.google.com/spreadsheets/d/1X6uA9fwuduA-hxjzSnMyb3LpmzDEehzIGSRWvPMFZCQ/edit?usp=drive_link)
+
 **To download:** Open the link → File → Download → Comma‑separated values (.csv)
 
 ## Project Overview
