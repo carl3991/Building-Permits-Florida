@@ -5,7 +5,7 @@ This project analyzes Florida building permit data to uncover trends in construc
 
 Beyond descriptive insights, the project applies machine learning models to classify permits as Residential or Commercial and uses time‑series forecasting to project average permit costs over the next five years. Together, these components demonstrate how data science can turn raw administrative records into actionable information for planners, developers, and community stakeholders.
 
-## Features
+## Core Analysis Steps
 1. **Data cleaning & preprocessing**
 > Standardization of permit fields, handling missing values, and preparing structured     datasets for analysis.
 
