@@ -6,28 +6,28 @@ This project analyzes Florida building permit data to uncover trends in construc
 Beyond descriptive insights, the project applies machine learning models to classify permits as Residential or Commercial and uses time‑series forecasting to project average permit costs over the next five years. Together, these components demonstrate how data science can turn raw administrative records into actionable information for planners, developers, and community stakeholders.
 
 ## Features
-1. Data cleaning & preprocessing
+1. **Data cleaning & preprocessing**
 > Standardization of permit fields, handling missing values, and preparing structured     datasets for analysis.
 
-2. Exploratory data analysis (EDA)
+2. **Exploratory data analysis (EDA)**
 > Descriptive statistics and visual summaries of permit activity, zoning distribution, and cost patterns.
    
 
-3. Predictive Modeling
+3. **Predictive Modeling**
 > Classification of permits using Logistic Regression, Random Forest, and XGBoost, with XGBoost achieving the strongest performance and highest recall for Commercial permits
 
 4. **Cost Forecasting**
 > ARIMA and Prophet models used to forecast average permit costs, revealing a stable to slightly declining trend through 2026.
 
-5.**Insights for Planning & Development**
+5. **Insights for Planning & Development**
 > Interpretation of model outputs to identify key drivers such as zoning codes, project scales, and cost dynamics, supporting more informed decision-making.
 
 <br></br>
 
 ## Tools & Libraries
-* Python: pandas, matplotlib, seaborn
+* Python: pandas, matplotlib, seaborn, scikit-learn, XGBoost, statsmodels, Prophet
 
-* Jupyter Notebook: analysis and documentation, and visualization environment
+* Jupyter Notebook: analysis, documentation, and visualization environment
 
 <br></br>
 
