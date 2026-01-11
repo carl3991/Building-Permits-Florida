@@ -22,10 +22,14 @@ Beyond descriptive insights, the project applies machine learning models to clas
 5.**Insights for Planning & Development**
 > Interpretation of model outputs to identify key drivers such as zoning codes, project scales, and cost dynamics, supporting more informed decision-making.
 
+<br></br>
+
 ## Tools & Libraries
 * Python: pandas, matplotlib, seaborn
 
 * Jupyter Notebook: analysis and documentation, and visualization environment
+
+<br></br>
 
 ## Contributors
 This project was developeded collaboratively by:
