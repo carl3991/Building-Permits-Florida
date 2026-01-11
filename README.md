@@ -3,7 +3,7 @@
 ### Dataset
 The full building permit dataset is available here:  
 [Google Sheets – Florida Building Permits](https://docs.google.com/spreadsheets/d/1X6uA9fwuduA-hxjzSnMyb3LpmzDEehzIGSRWvPMFZCQ/edit?usp=drive_link)
-
+**To download:** Open the link → File → Download → Comma‑separated values (.csv)
 
 ## Project Overview
 This project analyzes Florida building permit data to uncover trends in construction activity, zoning patterns, and development costs. Using Python (pandas, matplotlib, seaborn), the workflow includes data cleaning, transformation, exploratory analysis, and predictive modeling. The analysis highlights how permit data can support clearer planning, more efficient review processes, and better understanding of regional growth.
